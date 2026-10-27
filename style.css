@@ -67,6 +67,9 @@ a:hover{
 
 
 .img-circle{
+	width:130px;
+	height:130px;
+	object-fit:cover;
 	border-radius:50%;
 }
 .btn-green{
